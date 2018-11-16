@@ -1,0 +1,42 @@
+[
+  {
+    "id": 25,
+    "class": "World",
+    "name": "Madison Scouts",
+    "home": "Madison, WI",
+    "url_logo": "https://backend.dci.org/images/gallery/XVf/5a181168d670bd001b2e637b_XVfT9k-W5gcOkuQ6X0dN90CVLLeqv2HY.png",
+    "url_more_info": "https://www.dci.org/corps/madison-scouts",
+    "performance_order": 1,
+    "performance_time": "7:30"
+  },
+  {
+    "id": 9,
+    "class": "World",
+    "name": "Carolina Crown",
+    "home": "Fort Mill, SC",
+    "url_logo": "https://backend.dci.org/images/gallery/IYp/5a181124d670bd001f490b0e_IYp8h5YRwrMtsuZQeQt2J-8QJYcL3bzC.png",
+    "url_more_info": "https://www.dci.org/corps/carolina-crown",
+    "performance_order": 2,
+    "performance_time": "7:48"
+  },
+  {
+    "id": 7,
+    "class": "World",
+    "name": "Bluecoats",
+    "home": "Canton, OH",
+    "url_logo": "https://backend.dci.org/images/gallery/wRi/5a181124d670bd001f490b0c_wRimxHy5d3FL1RVb48fVoLZBJm6JCPHj.png",
+    "url_more_info": "https://www.dci.org/corps/bluecoats",
+    "performance_order": 3,
+    "performance_time": "8:06"
+  },
+  {
+    "id": 4,
+    "class": "World",
+    "name": "Blue Devils",
+    "home": "Concord, CA",
+    "url_logo": "https://backend.dci.org/images/gallery/8xO/5a181124d670bd001f490b07_8xOFgbZF3ijakryaqz0UGPXLp0-uTtnG.png",
+    "url_more_info": "https://www.dci.org/corps/blue-devils",
+    "performance_order": 4,
+    "performance_time": "8:24"
+  }
+]
